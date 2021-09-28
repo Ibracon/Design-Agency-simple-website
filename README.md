@@ -1,4 +1,8 @@
 # Design
 Figma Designs
 
-This is a landing page for an online Food and Beverage Store. 
+This is a simple website, designed using figma. 
+
+
+
+
